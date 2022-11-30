@@ -13,7 +13,7 @@ Ex: `/batch -100xxx`
 
 START_MESSAGE = '''Hello, {}
 
-I'm a DTGLINKS.IN Shortener Bot short Using your API. 
+I'm a MAKESHORT.IN Shortener Bot short Using your API. 
 
 Just Send me Any Post with Mdisk or Other Links. I will Convert Those Links Using Your API and Send them Back To You. I work in Channels too. 
 
@@ -25,7 +25,7 @@ Current Method Selected: **{}**
 
 
 HELP_MESSAGE = '''
-Hey! My name is {firstname}. I am a DTGLINKS.IN Shortner bot make your Work Easy and Help you to Earn more
+Hey! My name is {firstname}. I am a MAKESHORT.IN Shortner bot make your Work Easy and Help you to Earn more
 
 Helpful commands:
 
