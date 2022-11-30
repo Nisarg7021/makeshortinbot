@@ -17,7 +17,7 @@ BOT_TOKEN = os.environ.get("BOT_TOKEN") # Bot token from @BotFather
 ADMINS = [int(i.strip()) for i in os.environ.get("ADMINS").split(",")] if os.environ.get("ADMINS") else []
 PORT = os.environ.get("PORT", "8080")
 
-DATABASE_NAME = os.environ.get("DATABASE_NAME", "MdiskConvertor")
+DATABASE_NAME = os.environ.get("DATABASE_NAME", None)
 DATABASE_URL = os.environ.get("DATABASE_URL", None) # mongodb uri from https://www.mongodb.com/
 OWNER_ID =  int(os.environ.get("OWNER_ID")) # id of the owner
 ADMINS.append(OWNER_ID) if OWNER_ID not in ADMINS else []
