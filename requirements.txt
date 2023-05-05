@@ -4,9 +4,9 @@ motor==2.5.1
 Pyrogram==2.0.30
 TgCrypto==1.2.3
 bs4
-mdisky
 heroku3
 shortzy
 aiofiles
 validators
 python-dotenv
+git+https://github.com/Nisarg7021/mdisky        
