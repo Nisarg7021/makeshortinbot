@@ -9,4 +9,4 @@ shortzy
 aiofiles
 validators
 python-dotenv
-git+https://github.com/Nisarg7021/mdisky/tree/ptrial
+mdisky
